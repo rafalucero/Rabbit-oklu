@@ -1,4 +1,4 @@
-from binascii import unhexlify as sus
+from binascii import unhexlify as sus #
 from os import system as RABBİT
 # key:
 kp1 = "noLetyB23AsIsihT"[::-1]
