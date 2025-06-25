@@ -4,7 +4,7 @@ from cfonts import render
 RAYQ = render('vip', colors=['white', 'red'], align='center')
 print(RAYQ)
 print("\x1b[1;39m—" * 67)
-print(f"""\x1b[38;5;117m  1\x1b[38;5;231m - İnstagram Random[ RAYQ ]
+print(f"""\x1b[38;5;117m  1\x1b[38;5;231m - İnstagram Random.     [ RAYQ ]
 \x1b[38;5;117m  2\x1b[38;5;231m - İnstagram Filtreli       [ RAYQ ]
 \x1b[38;5;117m  3\x1b[38;5;231m - İnstagram 2013 Gmail     [ RAYQ ]
 \x1b[38;5;117m  4\x1b[38;5;231m - İnstagram 2012-2013 Aol  [ RAYQ ]
